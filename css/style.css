@@ -13,6 +13,11 @@
     background: rgba(0, 0, 0, 0.5);
     border: 2px solid white;
 }
+.clogo{
+     position:relative;
+    top:9%;
+    left:60%;
+}
 .form-check-input:checked{
     background-color: #CC4277;
     border-color: #CC4277 !important;
