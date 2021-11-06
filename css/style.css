@@ -9,16 +9,18 @@
 }
 .cform{
     position:relative;
-    top:7%;
+    top:2%;
     left:60%;
-    background: rgba(0, 0, 0, 0.5);
+    /* background: rgba(0, 0, 0, 0.5); */
+    
+    backdrop-filter: blur(12px);
     border: 2px solid white;
     padding-right: 5px !important;
 }
 .clogo{
      position:relative;
-    top:9%;
-    left:60%;
+    top:85%;
+    left:0%;
 }
 .form-check-input:checked{
     background-color: #CC4277;
