@@ -1,6 +1,7 @@
 .main{
     background:url(https://i.ibb.co/wwGTkp4/bg.jpg);
-    height: 120vh;
+    background-position: 0 -92px;
+    height: 100vh;
     width: 100%;
     background-repeat: no-repeat;
     background-size:cover;
@@ -8,7 +9,7 @@
 }
 .cform{
     position:relative;
-    top:13%;
+    top:7%;
     left:60%;
     background: rgba(0, 0, 0, 0.5);
     border: 2px solid white;
