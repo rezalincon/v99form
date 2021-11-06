@@ -12,6 +12,7 @@
     left:60%;
     background: rgba(0, 0, 0, 0.5);
     border: 2px solid white;
+    padding-right: 7px !important;
 }
 .clogo{
      position:relative;
@@ -22,9 +23,7 @@
     background-color: #CC4277;
     border-color: #CC4277 !important;
 }
-.needs{
-    margin-left: 8%;
-}
+
 .cent-txt{
     line-height: 35px;
 }
